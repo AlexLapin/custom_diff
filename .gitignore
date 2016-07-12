@@ -31,7 +31,8 @@ rerun.txt
 pickle-email-*.html
 .project
 *.*~
-/.idea
+/.idea/**
+.idea/**
 Guardfile
 /*.org
 /Procfile
